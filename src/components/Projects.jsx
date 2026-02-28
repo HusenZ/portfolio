@@ -11,7 +11,7 @@ const projects = [
     description:
       'Production-grade short-form social video app with a novel 4D feed - vertical posts + horizontal replies with gesture controls.',
     links: [
-      { label: 'Play Store', url: '#', type: 'external' },
+      { label: 'Play Store', url: 'https://play.google.com/store/apps/details?id=com.wemotions.app', type: 'external' },
       { label: 'GitHub', url: 'https://github.com/HusenZ', type: 'github' }
     ],
     badge: 'Live on Play Store 🚀',
